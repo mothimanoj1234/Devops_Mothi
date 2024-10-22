@@ -1,0 +1,40 @@
+#!/bin/bash
+
+
+#########################################################################
+################ IMPORTANT LINUX COMMANDS ################
+
+
+###########################################
+#   create a folder
+mkdir  mothi
+
+
+## create two files
+cd mothi
+ touch firstfile secondfile
+
+
+
+
+
+####################################
+# 1. touch --> to create a file
+
+##  Ex:  touch <file name>
+
+
+###################################
+
+# 2. ls - list all files in the directory
+
+## Ex: ls
+
+##################################################################################
+# 3. ls -ltr --> list the content of directory with time stamps in reverse order
+
+## Ex: ls -ltr
+
+
+#####################################################
+                                     
